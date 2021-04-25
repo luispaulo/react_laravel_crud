@@ -5,7 +5,7 @@
 - Clonar o projeto CRUD do github
 https://github.com/luispaulo/react_laravel_crud.git
 
-## Foi criado o container através do laradock, 
+## Foi criado o container atravÃ©s do laradock, 
 - Clonar o projeto laradock na mesma pasta do projeto CRUD
 git clone https://github.com/Laradock/laradock.git
 
@@ -19,7 +19,7 @@ react_laravel_crud
 
  - configurar o arquivo .env da raiz do projeto 'react_laravel_crud' com os dados do banco mysql
 
-- intrução de conexao mysql para alterar no arquivo:
+- intruÃ§Ã£o de conexao mysql para alterar no arquivo:
 
 ```DB_CONNECTION=mysql
     DB_HOST=mysql
@@ -33,7 +33,7 @@ react_laravel_crud
 
 - acesso o mysql myphpadmin na porta :
     http://localhost:8081/
-    acesse com os dados preenchidos na configuração do banco
+    acesse com os dados preenchidos na configuraÃ§Ã£o do banco
   
 
 ## iniciar o ambiente com docker 
@@ -69,10 +69,16 @@ react_laravel_crud
    executar NOVAMENTE comando :  php artisan migrate 
 ```
 
+   Execute o comando abaixo,para rodar ativar recurso REACT
+   
+```
+   executar o comando :  yarn run watch
+```
+
 ## Como abrir o projeto CRUD
 
 - ACESSE O caminho configurado no nginx no navegador de internet (larareact.local.test )
-- apos fazer o login vai esta disponível o CRUD (caso nao tenha o login registrar na aplicacao)
+- apos fazer o login vai esta disponÃ­vel o CRUD (caso nao tenha o login registrar na aplicacao)
 
 ## DUVIDAS E CONTATOS
 - **[Whatsapp - Luis Paulo ](https://api.whatsapp.com/send?phone=5561982481004)**
