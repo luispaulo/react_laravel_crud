@@ -1,4 +1,4 @@
-<p align="center"><a href="http://www.brtk.com.br" target="_blank"><img src="http://www.brtk.com.br/img/brTKLogo.png" width="400"></a></p>
+
 
 ## Como iniciar o projeto RODAPE FEITO EM REACT
 
